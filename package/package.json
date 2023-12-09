@@ -1,5 +1,5 @@
 {
-  "name": "@wds-react/ui",
+  "name": "@wds/ui",
   "version": "0.0.1",
   "description": "create new react vite app with shadcn ui and tailwind css install the shadcn components and add base folders and files",
   "repository": {
