@@ -11,7 +11,7 @@ export default meta;
 
 type Story = StoryObj;
 
-export const Primary: Story = (args) => (
+export const Primary: Story = (args: any) => (
   <Alert>
     <AlertTitle>Heads up!</AlertTitle>
     <AlertDescription>
